@@ -3,7 +3,7 @@
 A modern, responsive 2-page redesign concept for Funngro, created to showcase web development and SEO capabilities.
 
 ## 🌐 Live Website
-* Deployed Site: [https://vinitaaayadav.github.io/funngro-revamp/](https://vinitaaayadav.github.io/funngro-revamp/)
+* Deployed Site: [https://vinitaaayadav.github.io/funngro-revamp2/](https://vinitaaayadav.github.io/funngro-revamp2/)
 
 ## ✨ Key Features
 * 2-Page Structure: Dedicated landing pages for Teens/Students and Companies/Employers.
